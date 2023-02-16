@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+    * {
+      margin: 0px;
+      padding: 0px;
+    }
+    img {
+      width: 100vw;
+    }
+    a {
+      display: block;
+      background-color: blue;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      text-decoration: none;
+    }
